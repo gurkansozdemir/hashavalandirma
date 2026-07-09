@@ -17804,7 +17804,7 @@ a:hover .text-hover-white{
   height: 0;
   border-style: solid;
   border-width: 20px 0 0 20px;
-  border-color: transparent transparent transparent #007bff;
+  border-color: transparent transparent transparent var(--secondary-color);
   left: 98px;
   top: -10px;
 }
@@ -19266,7 +19266,7 @@ a.btn-slider:hover {
   height: 0;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  border-right: 10px solid blue;
+  border-right: 10px solid var(--primary-color);
 }
 
 blockquote.very-big {
