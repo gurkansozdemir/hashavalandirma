@@ -299,6 +299,15 @@ header div#logo {
   transition: all 0.3s;
 }
 
+header div#logo img {
+  max-height: 48px;
+  width: auto;
+}
+
+header.smaller div#logo img {
+  max-height: 42px;
+}
+
 header .logo-2 {
   display: none;
 }
@@ -20397,6 +20406,8 @@ img {
 
   header .logo-mobile {
     display: block;
+    max-height: 38px;
+    width: auto;
   }
 
   header .btn-main{
