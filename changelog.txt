@@ -1,0 +1,50 @@
+CoolAir 1.1.5
+New added Homepage 14 (homepage-14.html)
+
+CoolAir 1.1.4
+New added Homepage 13 (homepage-13.html)
+
+CoolAir 1.1.3
+New added Homepage 12 (homepage-12.html)
+
+CoolAir 1.1.2
+New added Onepage 1 (onepage-1.html)
+
+CoolAir 1.1.1
+New added Area We Serve (service-area.html)
+
+CoolAir 1.1.0
+New added Homepage 11 (homepage-11.html)
+
+CoolAir 1.0.9
+New added Homepage Ten (homepage-10.html)
+
+CoolAir 1.0.8
+New added Homepage Nine (homepage-9.html)
+New thumbnails carousel on Product Details New page (product-details-new.html)
+New thumbnails video lightbox support
+
+CoolAir 1.0.7
+New added Products (products.html)
+New added Product Details New (product-details-new.html)
+Update for contact form
+
+CoolAir 1.0.6
+New added Homepage Seven (homepage-8.html)
+
+CoolAir 1.0.5
+New added Homepage Seven (homepage-7.html)
+
+CoolAir 1.0.4
+New added Homepage Six (homepage-6.html)
+New added Product Details (product-details.html)
+
+CoolAir 1.0.3
+New added Homepage Five (homepage-5.html)
+
+CoolAir 1.0.2
+New added Pricing Plans (pricing-plans.html)
+New added Price List (price-list.html)
+
+CoolAir 1.0.1
+New added Homepage Four (homepage-4.html)
