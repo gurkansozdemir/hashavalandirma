@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /documentation/
+Disallow: /vendor/
+Disallow: /src/
+Disallow: /handler.php
+Disallow: /homepage-
+Disallow: /onepage-
+Disallow: /elements.html
+Disallow: /changelog.txt
+
+Sitemap: https://hashavalandirma.com.tr/sitemap.xml
