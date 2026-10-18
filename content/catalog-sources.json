@@ -1,0 +1,616 @@
+{
+  "collected": "2026-10-18",
+  "categories": [
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/fanlar",
+      "id": "fanlar",
+      "name": "Fanlar",
+      "products": []
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/sessiz-fanlar",
+      "id": "sessiz-fanlar",
+      "name": "Sessiz Fanlar",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/yuvarlak-kanal-tipi-fanlar-td-silent",
+        "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silentub",
+        "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silent-design",
+        "https://www.metalishavalandirma.com/tr/urun/duvar-ve-tavan-tipi-radyal-fanlar-ecoair-design",
+        "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silent"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/otopark-fanlari",
+      "id": "otopark-fanlari",
+      "name": "Otopark Fanları",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-cgt",
+        "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-thgt",
+        "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-chgt",
+        "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-tgt",
+        "https://www.metalishavalandirma.com/tr/urun/jet-fanlar-ifht",
+        "https://www.metalishavalandirma.com/tr/urun/jet-fanlar-tjhu-tjht"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/atex-fanlar",
+      "id": "atex-fanlar",
+      "name": "ATEX Fanlar",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-td-atex",
+        "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-ilt-atex",
+        "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-th-atex",
+        "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-hdt-atex"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/ev-tipi-isi-geri-kazanim-cihazlari",
+      "id": "ev-tipi-isi-geri-kazanim-cihazlari",
+      "name": "Ev tipi ısı geri kazanım cihazları",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-domeo-210",
+        "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-nembus",
+        "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-sabik",
+        "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-altair",
+        "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-respiro"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/salyangoz-ve-hucreli-fanlar",
+      "id": "salyangoz-ve-hucreli-fanlar",
+      "name": "Salyangoz Fan",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/salyangoz-fanlar",
+        "https://www.metalishavalandirma.com/tr/urun/hucreli-fanlar"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/flexible-hava-kanallari",
+      "id": "flexible-hava-kanallari",
+      "name": "Flexible Hava Kanalları",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-sonoafs-alu-70b",
+        "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-aluafs-70",
+        "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-isoafs-alu-70"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/chiller-ve-klima-santralleri",
+      "id": "chiller-ve-klima-santralleri",
+      "name": "Chiller ve Klima Santralleri",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/chiller",
+        "https://www.metalishavalandirma.com/tr/urun/ahu-air-handlings-units"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/menfezler",
+      "id": "menfezler",
+      "name": "Menfezler",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/turbulansli-difuzor-htd",
+        "https://www.metalishavalandirma.com/tr/urun/duz-kanatli-kare-tavan-anemostad-hdkta",
+        "https://www.metalishavalandirma.com/tr/urun/egrisel-kanatli-kare-tavan-anemostadi-hekta",
+        "https://www.metalishavalandirma.com/tr/urun/dairesel-tavan-anemostadi-hdta",
+        "https://www.metalishavalandirma.com/tr/urun/gemici-anemostadi-hga",
+        "https://www.metalishavalandirma.com/tr/urun/swril-difuzor-hswd",
+        "https://www.metalishavalandirma.com/tr/urun/dort-yonlu-swril-difuzor-hdysd",
+        "https://www.metalishavalandirma.com/tr/urun/swril-difuzor-hsswd",
+        "https://www.metalishavalandirma.com/tr/urun/ideal-konfor-difuzoru-hikd",
+        "https://www.metalishavalandirma.com/tr/urun/drum-difuzor-hdd",
+        "https://www.metalishavalandirma.com/tr/urun/jet-nozul-hjn",
+        "https://www.metalishavalandirma.com/tr/urun/yangin-damperi-hyd",
+        "https://www.metalishavalandirma.com/tr/urun/gizli-tavan-tipi-slot-difuzor-hgsd",
+        "https://www.metalishavalandirma.com/tr/urun/cift-sira-kanatli-menfez-hcsk",
+        "https://www.metalishavalandirma.com/tr/urun/tek-sira-kanatli-menfez-htsk",
+        "https://www.metalishavalandirma.com/tr/urun/lineer-menfez-hlm",
+        "https://www.metalishavalandirma.com/tr/urun/kare-petek-menfez-hkp",
+        "https://www.metalishavalandirma.com/tr/urun/kapi-transfer-menfezi-hktm",
+        "https://www.metalishavalandirma.com/tr/urun/yer-lineer-menfezi-hylm",
+        "https://www.metalishavalandirma.com/tr/urun/dairesel-kanal-menfezi-hdkm",
+        "https://www.metalishavalandirma.com/tr/urun/lif-tutucu-menfez-hltm",
+        "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hkk-a",
+        "https://www.metalishavalandirma.com/tr/urun/dairesel-kesitli-susturucu-hdks",
+        "https://www.metalishavalandirma.com/tr/urun/dortgen-kesitli-kanal-tipi-susturucu-hktds",
+        "https://www.metalishavalandirma.com/tr/urun/makarali-slot-difuzor-hmsd",
+        "https://www.metalishavalandirma.com/tr/urun/slot-difuzor-hsd",
+        "https://www.metalishavalandirma.com/tr/urun/yer-doseme-difuzoru-hydd",
+        "https://www.metalishavalandirma.com/tr/urun/kum-tutucu-panjur-hktp",
+        "https://www.metalishavalandirma.com/tr/urun/hava-panjurlari-hpp",
+        "https://www.metalishavalandirma.com/tr/urun/altigen-kutulu-panjur-hakp",
+        "https://www.metalishavalandirma.com/tr/urun/akustik-panjur-hap",
+        "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hlmk",
+        "https://www.metalishavalandirma.com/tr/urun/hepa-filtre-kutusu-hhk",
+        "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hkpk",
+        "https://www.metalishavalandirma.com/tr/urun/yangin-ve-duman-damperi-kalsiyum-silikatli-hfd",
+        "https://www.metalishavalandirma.com/tr/urun/dairesel-kesitli-hava-damperi-hchd",
+        "https://www.metalishavalandirma.com/tr/urun/dortgen-hava-damperi-hdhd",
+        "https://www.metalishavalandirma.com/tr/urun/degisken-debi-ayar-damperi-hvav",
+        "https://www.metalishavalandirma.com/tr/urun/sabit-debi-ayar-damperi-hcav",
+        "https://www.metalishavalandirma.com/tr/urun/basinc-tahliye-damperi-hbtd",
+        "https://www.metalishavalandirma.com/tr/urun/dortgen-geri-akis-damperi-hdgd",
+        "https://www.metalishavalandirma.com/tr/urun/saft-duman-tahliye-damperi-hdtd"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/davlumbazlar",
+      "id": "davlumbazlar",
+      "name": "Davlumbazlar",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/orta-tip-davlumbaz-hava-perdeli",
+        "https://www.metalishavalandirma.com/tr/urun/cay-ocagi-davlumbazi",
+        "https://www.metalishavalandirma.com/tr/urun/duvar-tip-davlumbaz-hava-perdeli",
+        "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtreli",
+        "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtresiz",
+        "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-alev-tutucu-filtreli",
+        "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-filtresiz"
+      ]
+    },
+    {
+      "url": "https://www.metalishavalandirma.com/tr/kategori/filtre-grubu",
+      "id": "filtre-grubu",
+      "name": "Filtre Grubu",
+      "products": [
+        "https://www.metalishavalandirma.com/tr/urun/sulu-filtre-scrubber",
+        "https://www.metalishavalandirma.com/tr/urun/yag-buhari-filtreleri",
+        "https://www.metalishavalandirma.com/tr/urun/akrobat-kol",
+        "https://www.metalishavalandirma.com/tr/urun/hava-kilidi-rotary-valf",
+        "https://www.metalishavalandirma.com/tr/urun/patlama-tahliye-kapagi",
+        "https://www.metalishavalandirma.com/tr/urun/mekanik-izolasyon-damperi-valfi",
+        "https://www.metalishavalandirma.com/tr/urun/kimyasal-patlama-izolasyonu",
+        "https://www.metalishavalandirma.com/tr/urun/endustriyel-tip-patlacli-jet-pulse-torba-filtreler",
+        "https://www.metalishavalandirma.com/tr/urun/dmf-1-basic-mobil-filtre-unitesi",
+        "https://www.metalishavalandirma.com/tr/urun/dmf-1-pulse-mobil-filtre-unitesi",
+        "https://www.metalishavalandirma.com/tr/urun/dmf-2-pulse-mobil-filtre-unitesi",
+        "https://www.metalishavalandirma.com/tr/urun/santrifuj-toplayicilar-siklonlar"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "yuvarlak-kanal-tipi-fanlar-td-silent",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yuvarlak-kanal-tipi-fanlar-td-silent",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/sessiz-fanlar/td-silent.jpg"
+    },
+    {
+      "id": "mini-aksiyal-fanlar-silentub",
+      "url": "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silentub",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/sessiz-fanlar/silentub.jpg"
+    },
+    {
+      "id": "mini-aksiyal-fanlar-silent-design",
+      "url": "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silent-design",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/sessiz-fanlar/silent-design.jpg"
+    },
+    {
+      "id": "duvar-ve-tavan-tipi-radyal-fanlar-ecoair-design",
+      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-ve-tavan-tipi-radyal-fanlar-ecoair-design",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/sessiz-fanlar/ecoair-design.jpg"
+    },
+    {
+      "id": "mini-aksiyal-fanlar-silent",
+      "url": "https://www.metalishavalandirma.com/tr/urun/mini-aksiyal-fanlar-silent",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/sessiz-fanlar/silent-mini-aksiyal-fanlar1.jpg"
+    },
+    {
+      "id": "aksiyel-fanlar-cgt",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-cgt",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/cgt.png"
+    },
+    {
+      "id": "aksiyel-fanlar-thgt",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-thgt",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/thgt.jpg"
+    },
+    {
+      "id": "aksiyel-fanlar-chgt",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-chgt",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/chgt-0.png"
+    },
+    {
+      "id": "aksiyel-fanlar-tgt",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aksiyel-fanlar-tgt",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/tgt-0.png"
+    },
+    {
+      "id": "jet-fanlar-ifht",
+      "url": "https://www.metalishavalandirma.com/tr/urun/jet-fanlar-ifht",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/fht.jpg"
+    },
+    {
+      "id": "jet-fanlar-tjhu-tjht",
+      "url": "https://www.metalishavalandirma.com/tr/urun/jet-fanlar-tjhu-tjht",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/tjhu-tjht.jpg"
+    },
+    {
+      "id": "ex-proof-fanlar-td-atex",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-td-atex",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/atex-fanlar/td-atex-0.png"
+    },
+    {
+      "id": "ex-proof-fanlar-ilt-atex",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-ilt-atex",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/atex-fanlar/ilt-atex-0.png"
+    },
+    {
+      "id": "ex-proof-fanlar-th-atex",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-th-atex",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/atex-fanlar/th-atex-0.png"
+    },
+    {
+      "id": "ex-proof-fanlar-hdt-atex",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ex-proof-fanlar-hdt-atex",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/atex-fanlar/hdt-atex-0.png"
+    },
+    {
+      "id": "konut-tip-isi-geri-kazanim-cihazlari-domeo-210",
+      "url": "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-domeo-210",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/ev-tipi-isi-geri-kazanim-cihazlari/domeo-210-0.png"
+    },
+    {
+      "id": "konut-tip-isi-geri-kazanim-cihazlari-nembus",
+      "url": "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-nembus",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/ev-tipi-isi-geri-kazanim-cihazlari/nembus-0.png"
+    },
+    {
+      "id": "konut-tip-isi-geri-kazanim-cihazlari-sabik",
+      "url": "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-sabik",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/ev-tipi-isi-geri-kazanim-cihazlari/sabik-0.png"
+    },
+    {
+      "id": "konut-tip-isi-geri-kazanim-cihazlari-altair",
+      "url": "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-altair",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/ev-tipi-isi-geri-kazanim-cihazlari/altair-0.png"
+    },
+    {
+      "id": "konut-tip-isi-geri-kazanim-cihazlari-respiro",
+      "url": "https://www.metalishavalandirma.com/tr/urun/konut-tip-isi-geri-kazanim-cihazlari-respiro",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/ev-tipi-isi-geri-kazanim-cihazlari/respiro-0.png"
+    },
+    {
+      "id": "salyangoz-fanlar",
+      "url": "https://www.metalishavalandirma.com/tr/urun/salyangoz-fanlar",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/toz-0.png"
+    },
+    {
+      "id": "hucreli-fanlar",
+      "url": "https://www.metalishavalandirma.com/tr/urun/hucreli-fanlar",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/otopark-fanlari/chat-0.png"
+    },
+    {
+      "id": "aluminyum-flexible-hava-kanallari-sonoafs-alu-70b",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-sonoafs-alu-70b",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/flexible-hava-kanallari/sonoafs-alu70b-0.png"
+    },
+    {
+      "id": "aluminyum-flexible-hava-kanallari-aluafs-70",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-aluafs-70",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/flexible-hava-kanallari/aluafs70-0.png"
+    },
+    {
+      "id": "aluminyum-flexible-hava-kanallari-isoafs-alu-70",
+      "url": "https://www.metalishavalandirma.com/tr/urun/aluminyum-flexible-hava-kanallari-isoafs-alu-70",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/flexible-hava-kanallari/isoafs-alu70-0.png"
+    },
+    {
+      "id": "chiller",
+      "url": "https://www.metalishavalandirma.com/tr/urun/chiller",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/chiller/chill.png"
+    },
+    {
+      "id": "ahu-air-handlings-units",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ahu-air-handlings-units",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/chiller/klima.png"
+    },
+    {
+      "id": "turbulansli-difuzor-htd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/turbulansli-difuzor-htd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba.png"
+    },
+    {
+      "id": "duz-kanatli-kare-tavan-anemostad-hdkta",
+      "url": "https://www.metalishavalandirma.com/tr/urun/duz-kanatli-kare-tavan-anemostad-hdkta",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba9.png"
+    },
+    {
+      "id": "egrisel-kanatli-kare-tavan-anemostadi-hekta",
+      "url": "https://www.metalishavalandirma.com/tr/urun/egrisel-kanatli-kare-tavan-anemostadi-hekta",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba0.png"
+    },
+    {
+      "id": "dairesel-tavan-anemostadi-hdta",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dairesel-tavan-anemostadi-hdta",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba1.png"
+    },
+    {
+      "id": "gemici-anemostadi-hga",
+      "url": "https://www.metalishavalandirma.com/tr/urun/gemici-anemostadi-hga",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba2.png"
+    },
+    {
+      "id": "swril-difuzor-hswd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/swril-difuzor-hswd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba3.png"
+    },
+    {
+      "id": "dort-yonlu-swril-difuzor-hdysd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dort-yonlu-swril-difuzor-hdysd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba4.png"
+    },
+    {
+      "id": "swril-difuzor-hsswd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/swril-difuzor-hsswd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba5.png"
+    },
+    {
+      "id": "ideal-konfor-difuzoru-hikd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/ideal-konfor-difuzoru-hikd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/hikd_01(1).png"
+    },
+    {
+      "id": "drum-difuzor-hdd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/drum-difuzor-hdd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba6.png"
+    },
+    {
+      "id": "jet-nozul-hjn",
+      "url": "https://www.metalishavalandirma.com/tr/urun/jet-nozul-hjn",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba7.png"
+    },
+    {
+      "id": "yangin-damperi-hyd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yangin-damperi-hyd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba8.png"
+    },
+    {
+      "id": "gizli-tavan-tipi-slot-difuzor-hgsd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/gizli-tavan-tipi-slot-difuzor-hgsd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba10.png"
+    },
+    {
+      "id": "kare-petek-menfez-hkp",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kare-petek-menfez-hkp",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba13.png"
+    },
+    {
+      "id": "cift-sira-kanatli-menfez-hcsk",
+      "url": "https://www.metalishavalandirma.com/tr/urun/cift-sira-kanatli-menfez-hcsk",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/hcsk_001.png"
+    },
+    {
+      "id": "kapi-transfer-menfezi-hktm",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kapi-transfer-menfezi-hktm",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba14.png"
+    },
+    {
+      "id": "lineer-menfez-hlm",
+      "url": "https://www.metalishavalandirma.com/tr/urun/lineer-menfez-hlm",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba12.png"
+    },
+    {
+      "id": "tek-sira-kanatli-menfez-htsk",
+      "url": "https://www.metalishavalandirma.com/tr/urun/tek-sira-kanatli-menfez-htsk",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba11.png"
+    },
+    {
+      "id": "yer-lineer-menfezi-hylm",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yer-lineer-menfezi-hylm",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba15.png"
+    },
+    {
+      "id": "dairesel-kesitli-susturucu-hdks",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dairesel-kesitli-susturucu-hdks",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba19.png"
+    },
+    {
+      "id": "lif-tutucu-menfez-hltm",
+      "url": "https://www.metalishavalandirma.com/tr/urun/lif-tutucu-menfez-hltm",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba17.png"
+    },
+    {
+      "id": "kontrol-kapagi-hkk-a",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hkk-a",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba18.png"
+    },
+    {
+      "id": "dairesel-kanal-menfezi-hdkm",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dairesel-kanal-menfezi-hdkm",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba16.png"
+    },
+    {
+      "id": "yer-doseme-difuzoru-hydd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yer-doseme-difuzoru-hydd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/hydd_01.png"
+    },
+    {
+      "id": "slot-difuzor-hsd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/slot-difuzor-hsd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba22.png"
+    },
+    {
+      "id": "makarali-slot-difuzor-hmsd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/makarali-slot-difuzor-hmsd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba21.png"
+    },
+    {
+      "id": "dortgen-kesitli-kanal-tipi-susturucu-hktds",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dortgen-kesitli-kanal-tipi-susturucu-hktds",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba20.png"
+    },
+    {
+      "id": "kum-tutucu-panjur-hktp",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kum-tutucu-panjur-hktp",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/panjur.png"
+    },
+    {
+      "id": "altigen-kutulu-panjur-hakp",
+      "url": "https://www.metalishavalandirma.com/tr/urun/altigen-kutulu-panjur-hakp",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba23.png"
+    },
+    {
+      "id": "kontrol-kapagi-hlmk",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hlmk",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba24.png"
+    },
+    {
+      "id": "hepa-filtre-kutusu-hhk",
+      "url": "https://www.metalishavalandirma.com/tr/urun/hepa-filtre-kutusu-hhk",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba25.png"
+    },
+    {
+      "id": "hava-panjurlari-hpp",
+      "url": "https://www.metalishavalandirma.com/tr/urun/hava-panjurlari-hpp",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/hpp_01.png"
+    },
+    {
+      "id": "akustik-panjur-hap",
+      "url": "https://www.metalishavalandirma.com/tr/urun/akustik-panjur-hap",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/hap_01.png"
+    },
+    {
+      "id": "dairesel-kesitli-hava-damperi-hchd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dairesel-kesitli-hava-damperi-hchd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba27.png"
+    },
+    {
+      "id": "dortgen-hava-damperi-hdhd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dortgen-hava-damperi-hdhd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba28.png"
+    },
+    {
+      "id": "yangin-ve-duman-damperi-kalsiyum-silikatli-hfd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yangin-ve-duman-damperi-kalsiyum-silikatli-hfd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/HFD.png"
+    },
+    {
+      "id": "degisken-debi-ayar-damperi-hvav",
+      "url": "https://www.metalishavalandirma.com/tr/urun/degisken-debi-ayar-damperi-hvav",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba29.png"
+    },
+    {
+      "id": "kontrol-kapagi-hkpk",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kontrol-kapagi-hkpk",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba26.png"
+    },
+    {
+      "id": "orta-tip-davlumbaz-hava-perdeli",
+      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tip-davlumbaz-hava-perdeli",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d2.png"
+    },
+    {
+      "id": "saft-duman-tahliye-damperi-hdtd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/saft-duman-tahliye-damperi-hdtd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba33.png"
+    },
+    {
+      "id": "dortgen-geri-akis-damperi-hdgd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dortgen-geri-akis-damperi-hdgd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba32.png"
+    },
+    {
+      "id": "basinc-tahliye-damperi-hbtd",
+      "url": "https://www.metalishavalandirma.com/tr/urun/basinc-tahliye-damperi-hbtd",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba31.png"
+    },
+    {
+      "id": "sabit-debi-ayar-damperi-hcav",
+      "url": "https://www.metalishavalandirma.com/tr/urun/sabit-debi-ayar-damperi-hcav",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba30.png"
+    },
+    {
+      "id": "cay-ocagi-davlumbazi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/cay-ocagi-davlumbazi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d1.png"
+    },
+    {
+      "id": "duvar-tip-davlumbaz-hava-perdeli",
+      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tip-davlumbaz-hava-perdeli",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d3.png"
+    },
+    {
+      "id": "orta-tipi-davlumbaz-filtreli",
+      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtreli",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d4.png"
+    },
+    {
+      "id": "orta-tipi-davlumbaz-filtresiz",
+      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtresiz",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d5.png"
+    },
+    {
+      "id": "duvar-tipi-davlumbaz-alev-tutucu-filtreli",
+      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-alev-tutucu-filtreli",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d6.png"
+    },
+    {
+      "id": "duvar-tipi-davlumbaz-filtresiz",
+      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-filtresiz",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d7.png"
+    },
+    {
+      "id": "sulu-filtre-scrubber",
+      "url": "https://www.metalishavalandirma.com/tr/urun/sulu-filtre-scrubber",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/sulu1.png"
+    },
+    {
+      "id": "yag-buhari-filtreleri",
+      "url": "https://www.metalishavalandirma.com/tr/urun/yag-buhari-filtreleri",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/yag-1.png"
+    },
+    {
+      "id": "akrobat-kol",
+      "url": "https://www.metalishavalandirma.com/tr/urun/akrobat-kol",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/kol.png"
+    },
+    {
+      "id": "hava-kilidi-rotary-valf",
+      "url": "https://www.metalishavalandirma.com/tr/urun/hava-kilidi-rotary-valf",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/kilit.png"
+    },
+    {
+      "id": "patlama-tahliye-kapagi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/patlama-tahliye-kapagi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/kapak.png"
+    },
+    {
+      "id": "mekanik-izolasyon-damperi-valfi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/mekanik-izolasyon-damperi-valfi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/valfi.png"
+    },
+    {
+      "id": "kimyasal-patlama-izolasyonu",
+      "url": "https://www.metalishavalandirma.com/tr/urun/kimyasal-patlama-izolasyonu",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/iz.png"
+    },
+    {
+      "id": "endustriyel-tip-patlacli-jet-pulse-torba-filtreler",
+      "url": "https://www.metalishavalandirma.com/tr/urun/endustriyel-tip-patlacli-jet-pulse-torba-filtreler",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/JetPulse.jpg"
+    },
+    {
+      "id": "dmf-1-basic-mobil-filtre-unitesi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dmf-1-basic-mobil-filtre-unitesi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/gorsel1.png"
+    },
+    {
+      "id": "dmf-1-pulse-mobil-filtre-unitesi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dmf-1-pulse-mobil-filtre-unitesi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/gorsel2.png"
+    },
+    {
+      "id": "dmf-2-pulse-mobil-filtre-unitesi",
+      "url": "https://www.metalishavalandirma.com/tr/urun/dmf-2-pulse-mobil-filtre-unitesi",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/gorsel3.png"
+    },
+    {
+      "id": "santrifuj-toplayicilar-siklonlar",
+      "url": "https://www.metalishavalandirma.com/tr/urun/santrifuj-toplayicilar-siklonlar",
+      "image": "https://www.metalishavalandirma.com/upload/images/urunler/filtreler/siklonlar.png"
+    }
+  ],
+  "notes": [
+    "Fanlar kaynakta üst kategori; alt fan grupları bu filtre altında birlikte sunulur.",
+    "Kaynak sayfalardaki yinelenen modeller tekilleştirildi; menfez kategorisinin tüm sayfaları tarandı.",
+    "ISOAFS/SONOAFS açıklamalarındaki karışık yalıtım iddiaları ve tutarsız teknik değerler aynen aktarılmadı. Model seçimi teklif aşamasında netleştirilir."
+  ]
+}

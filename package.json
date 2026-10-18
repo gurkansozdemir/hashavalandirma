@@ -1,0 +1,11 @@
+{
+  "name": "has-havalandirma",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "verify": "node scripts/verify-site.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
