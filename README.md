@@ -20,7 +20,9 @@ npm run preview
 - `content/catalog-sources.json`: referans ürün adresleri, kategori kapsamı ve kaynak notları. Tanıtım metinleri Has kimliği için yeniden yazılmıştır; ürün fotoğrafları kaynak katalogdan alınmıştır.
 - `scripts/build-site.mjs`: ortak sayfa yapısı, hizmetler, iletişim bilgileri ve SEO etiketleri.
 - `css/site.css`: masaüstü ve mobil tasarım.
-- `images/brand/`: açık zemin logosu, koyu zemin logosu ve amblem.
+- `images/brand/logo-fan.png`: onaylanan fanlı logonun orijinal görseli; paylaşım görseli ve yapılandırılmış veride kullanılır.
+- `images/brand/logo-fan.webp`: aynı logonun sayfalarda kullanılan hafif sürümü. Koyu alt bölümde beyaz zemin üzerinde gösterilir.
+- `images/brand/icon-fan.svg`: fan ve kırmızı-mavi hava akışını içeren sekme simgesi.
 - `js/catalog-filter.js`: Türkçe/ASCII uyumlu arama ve kategori eşleştirme.
 - `js/catalog.js`: filtrelerin, aramanın ve URL parametrelerinin arayüz bağlantısı.
 

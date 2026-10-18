@@ -24,3 +24,12 @@
 .contact-map h2{font-size:32px}
 .contact-map iframe{display:block;width:100%;height:420px;border-radius:var(--radius);background:var(--pale)}
 @media(max-width:640px){.topbar-phones{display:none}.contact-landlines a{font-size:24px}.contact-map{padding-bottom:35px}.contact-map h2{font-size:28px}.contact-map iframe{height:320px}}
+.brand{width:270px}
+.logo-window{display:block;position:relative;aspect-ratio:3.15;overflow:hidden}
+.logo-window>img{position:absolute;width:119%;max-width:none;height:auto;left:-9.5%;top:-31%}
+.brand .logo-window{mix-blend-mode:multiply}
+.footer-logo{display:block;width:min(100%,300px);padding:14px;background:#fff;border-radius:var(--radius)}
+.about-logo{width:85%;max-width:360px;mix-blend-mode:multiply}
+@media(max-width:1150px){.brand{width:230px}}
+@media(max-width:960px){.header-inner{min-height:90px}}
+@media(max-width:640px){.header-inner{min-height:84px}.brand{width:clamp(190px,58vw,250px)}}
