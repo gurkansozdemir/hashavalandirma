@@ -38,10 +38,6 @@
       "name": "Menfezler ve Hava Dağıtımı"
     },
     {
-      "id": "davlumbazlar",
-      "name": "Davlumbazlar"
-    },
-    {
       "id": "filtre-grubu",
       "name": "Filtre Grubu"
     }
@@ -448,8 +444,8 @@
       "features": [
         "Su veya glikol dolaşımlı sistem",
         "HVAC ve endüstriyel proses uygulamaları",
-        "Makine, kalıp ve gıda proseslerinde kullanım",
-        "Kapasite, proje ısı yüküne göre belirlenir"
+        "Kapasite, proje ısı yüküne göre belirlenir",
+        "Makine, kalıp ve endüstriyel üretim proseslerinde kullanım"
       ],
       "image": "images/catalog/chiller.webp",
       "source": "https://www.metalishavalandirma.com/tr/urun/chiller"
@@ -1030,110 +1026,6 @@
       ],
       "image": "images/catalog/yer-lineer-menfezi-hylm.webp",
       "source": "https://www.metalishavalandirma.com/tr/urun/yer-lineer-menfezi-hylm"
-    },
-    {
-      "id": "cay-ocagi-davlumbazi",
-      "name": "Çay Ocağı Davlumbazı",
-      "category": "davlumbazlar",
-      "description": "Çay ocağında oluşan buharı kanal hattına toplamak için paslanmaz çelik davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı"
-      ],
-      "image": "images/catalog/cay-ocagi-davlumbazi.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/cay-ocagi-davlumbazi"
-    },
-    {
-      "id": "duvar-tip-davlumbaz-hava-perdeli",
-      "name": "Duvar Tip Davlumbaz / Hava Perdeli",
-      "category": "davlumbazlar",
-      "description": "Duvar hattındaki pişirme ekipmanlarının buhar ve dumanını toplamak için hava perdeli davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "Hava perdesi",
-        "İsteğe bağlı etanj aydınlatma"
-      ],
-      "image": "images/catalog/duvar-tip-davlumbaz-hava-perdeli.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/duvar-tip-davlumbaz-hava-perdeli"
-    },
-    {
-      "id": "duvar-tipi-davlumbaz-alev-tutucu-filtreli",
-      "name": "Duvar Tipi Davlumbaz / Alev Tutucu Filtreli",
-      "category": "davlumbazlar",
-      "description": "Duvar hattındaki pişirme ekipmanlarının buhar ve dumanını toplamak için filtreli davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "60 mm yağ kanalı",
-        "Yağ tahliyesi için küresel vana",
-        "Alev tutucu filtre"
-      ],
-      "image": "images/catalog/duvar-tipi-davlumbaz-alev-tutucu-filtreli.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-alev-tutucu-filtreli"
-    },
-    {
-      "id": "duvar-tipi-davlumbaz-filtresiz",
-      "name": "Duvar Tipi Davlumbaz / Filtresiz",
-      "category": "davlumbazlar",
-      "description": "Duvar hattındaki pişirme ekipmanlarının buhar ve dumanını toplamak için filtresiz davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "60 mm yağ kanalı",
-        "Yağ tahliyesi için küresel vana"
-      ],
-      "image": "images/catalog/duvar-tipi-davlumbaz-filtresiz.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-filtresiz"
-    },
-    {
-      "id": "orta-tip-davlumbaz-hava-perdeli",
-      "name": "Orta Tip Davlumbaz / Hava Perdeli",
-      "category": "davlumbazlar",
-      "description": "Orta alandaki pişirme ekipmanlarının buhar ve dumanını toplamak için hava perdeli davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "Hava perdesi",
-        "İsteğe bağlı etanj aydınlatma"
-      ],
-      "image": "images/catalog/orta-tip-davlumbaz-hava-perdeli.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/orta-tip-davlumbaz-hava-perdeli"
-    },
-    {
-      "id": "orta-tipi-davlumbaz-filtreli",
-      "name": "Orta Tipi Davlumbaz / Filtreli",
-      "category": "davlumbazlar",
-      "description": "Orta alandaki pişirme ekipmanlarının buhar ve dumanını toplamak için filtreli davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "100 mm yağ kanalı",
-        "Yağ tahliyesi için küresel vana"
-      ],
-      "image": "images/catalog/orta-tipi-davlumbaz-filtreli.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtreli"
-    },
-    {
-      "id": "orta-tipi-davlumbaz-filtresiz",
-      "name": "Orta Tipi Davlumbaz / Filtresiz",
-      "category": "davlumbazlar",
-      "description": "Orta alandaki pişirme ekipmanlarının buhar ve dumanını toplamak için filtresiz davlumbaz.",
-      "features": [
-        "AISI304, 18/8 Cr-Ni paslanmaz çelik",
-        "1,0 mm sac kalınlığı",
-        "Çelik askı elemanlarıyla tavan montajı",
-        "100 mm yağ kanalı",
-        "Yağ tahliyesi için küresel vana"
-      ],
-      "image": "images/catalog/orta-tipi-davlumbaz-filtresiz.webp",
-      "source": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtresiz"
     },
     {
       "id": "akrobat-kol",

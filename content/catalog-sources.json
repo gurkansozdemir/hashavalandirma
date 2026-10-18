@@ -133,20 +133,6 @@
       ]
     },
     {
-      "url": "https://www.metalishavalandirma.com/tr/kategori/davlumbazlar",
-      "id": "davlumbazlar",
-      "name": "Davlumbazlar",
-      "products": [
-        "https://www.metalishavalandirma.com/tr/urun/orta-tip-davlumbaz-hava-perdeli",
-        "https://www.metalishavalandirma.com/tr/urun/cay-ocagi-davlumbazi",
-        "https://www.metalishavalandirma.com/tr/urun/duvar-tip-davlumbaz-hava-perdeli",
-        "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtreli",
-        "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtresiz",
-        "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-alev-tutucu-filtreli",
-        "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-filtresiz"
-      ]
-    },
-    {
       "url": "https://www.metalishavalandirma.com/tr/kategori/filtre-grubu",
       "id": "filtre-grubu",
       "name": "Filtre Grubu",
@@ -493,11 +479,6 @@
       "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba26.png"
     },
     {
-      "id": "orta-tip-davlumbaz-hava-perdeli",
-      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tip-davlumbaz-hava-perdeli",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d2.png"
-    },
-    {
       "id": "saft-duman-tahliye-damperi-hdtd",
       "url": "https://www.metalishavalandirma.com/tr/urun/saft-duman-tahliye-damperi-hdtd",
       "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba33.png"
@@ -516,36 +497,6 @@
       "id": "sabit-debi-ayar-damperi-hcav",
       "url": "https://www.metalishavalandirma.com/tr/urun/sabit-debi-ayar-damperi-hcav",
       "image": "https://www.metalishavalandirma.com/upload/images/urunler/menfezler/bba30.png"
-    },
-    {
-      "id": "cay-ocagi-davlumbazi",
-      "url": "https://www.metalishavalandirma.com/tr/urun/cay-ocagi-davlumbazi",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d1.png"
-    },
-    {
-      "id": "duvar-tip-davlumbaz-hava-perdeli",
-      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tip-davlumbaz-hava-perdeli",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d3.png"
-    },
-    {
-      "id": "orta-tipi-davlumbaz-filtreli",
-      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtreli",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d4.png"
-    },
-    {
-      "id": "orta-tipi-davlumbaz-filtresiz",
-      "url": "https://www.metalishavalandirma.com/tr/urun/orta-tipi-davlumbaz-filtresiz",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d5.png"
-    },
-    {
-      "id": "duvar-tipi-davlumbaz-alev-tutucu-filtreli",
-      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-alev-tutucu-filtreli",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d6.png"
-    },
-    {
-      "id": "duvar-tipi-davlumbaz-filtresiz",
-      "url": "https://www.metalishavalandirma.com/tr/urun/duvar-tipi-davlumbaz-filtresiz",
-      "image": "https://www.metalishavalandirma.com/upload/images/urunler/davlumbaz/d7.png"
     },
     {
       "id": "sulu-filtre-scrubber",
